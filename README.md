@@ -1,1 +1,1 @@
-# thynksmrt-website
+# thynksmrt-web
